@@ -1,0 +1,2 @@
+# git-parameter-plugin
+PLUGIN FOR JENKINS WORK WITH TAG FROM GIT
